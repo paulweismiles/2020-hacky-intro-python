@@ -1,11 +1,12 @@
 {
-  "base_url": "/user/paulweismiles-2-ky-intro-python-pzebwqpm/",
+  "base_url": "/user/paulweismiles-2-ky-intro-python-nmi4tm9y/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "q4zinOoGTlCSnTP6XrhEyA",
-  "url": "http://0.0.0.0:8888/user/paulweismiles-2-ky-intro-python-pzebwqpm/"
+  "sock": "",
+  "token": "RM_C4ri6SiuGj3MrNhIfiQ",
+  "url": "http://0.0.0.0:8888/user/paulweismiles-2-ky-intro-python-nmi4tm9y/"
 }
